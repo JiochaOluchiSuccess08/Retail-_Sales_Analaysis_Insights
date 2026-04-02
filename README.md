@@ -30,7 +30,7 @@ Warehouse sales contribute 67% of total revenue, indicating heavy dependence on 
 Retail sales account for only 17%, showing growth potential
 Sales peak around July, suggesting seasonal demand
 A small number of products (e.g., Corona, Heineken) drive most revenue
-Top suppliers contribute significantly to overall performance
+Top suppliers contribute significantly to overall performance.
 
 🛠 Tools Used
 Microsoft Excel
