@@ -1,6 +1,7 @@
 # Retail-_Sales_Analysis_Insights
 Data analysis project using Excel to explore retail sales performance, uncover revenue trends, and identify key business insights across channels, products, and suppliers.
 
+Overview 
 📊 Retail Sales Analysis Dashboard
 📌 Project Overview
 This project analyzes retail sales data to uncover key business insights across different sales channels, products, and suppliers.
