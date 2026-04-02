@@ -41,6 +41,7 @@ Data Cleaning & Transformation
 
 💡 Conclusion
 The analysis shows a strong reliance on warehouse sales, with opportunities to expand retail and transfer channels for a more balanced revenue stream.
+
 #excel
 #data-analysis
 #dashboard
