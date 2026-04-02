@@ -18,7 +18,7 @@ Sales transactions
 Product categories
 Supplier information
 Sales channels (Retail, Warehouse, Transfer)
-Monthly sales data
+Monthly sales data.
 
 🧹 Data Cleaning
 Standardized data types (dates, numbers)
